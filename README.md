@@ -1,12 +1,12 @@
 # Healthcare Predictive Analytics (Disease Detection)
 
-## 📌 Project Description
+##  Project Description
 
 This project predicts the risk of diseases like **diabetes** using machine learning. Medical data is preprocessed, normalized, and classified to identify whether a patient is likely to have the disease.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze healthcare dataset
 * Normalize medical records
@@ -16,19 +16,19 @@ This project predicts the risk of diseases like **diabetes** using machine learn
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Google Colab, GitHub
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 PIMA Indians Diabetes Dataset (Kaggle / UCI Repository)
 
 ---
 
-## ⚖️ Ethics
+##  Ethics
 
 The dataset is anonymized and used only for educational purposes. No personal patient data is shared.
 
